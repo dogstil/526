@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\bin\Debug\generator_Vitalia.exe.config
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\bin\Debug\generator_Vitalia.exe
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\bin\Debug\generator_Vitalia.pdb
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\bin\Debug\QRCoder.dll
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\generator_Vitalia.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\MainWindow.g.cs
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\App.g.cs
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\generator_Vitalia_MarkupCompile.cache
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\generator_Vitalia_MarkupCompile.lref
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\MainWindow.baml
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\generator_Vitalia.g.resources
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\generator_Vitalia.Properties.Resources.resources
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\generator_Vitalia.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\generator_Vitalia.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\generator_Vitalia.csproj.CopyComplete
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\generator_Vitalia.exe
+C:\Users\acer\source\repos\Vita\generator_Vitalia\qr_generator\obj\Debug\generator_Vitalia.pdb
